@@ -63,8 +63,9 @@ button:hover{
 
 .logo{
     
-    max-width:50%;
+    max-width:300px;
     transform: translate(32%);
+    align-self: center;
 }
 
 .form-select{
@@ -133,8 +134,8 @@ button:hover{
     padding: 0;
 }
 .figura{
-    margin-top: -30%;
-    margin-left: -20%;
+    margin-top: -180px;
+    margin-left: -90px;
 }
 .left{
     float: left !important;
